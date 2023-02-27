@@ -1,0 +1,20 @@
+{
+  "name": "TokenSpotify",
+  "version": "1.0.0",
+  "description": "Pagina token",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.1",
+    "pug": "^3.0.2",
+    "querystring": "^0.2.1",
+    "sweetalert": "^2.1.2",
+    "url": "^0.11.0"
+  }
+}
